@@ -68,7 +68,7 @@ tebak-captcha-cerdas/
 ---
 
 ## ⚙️ **Konfigurasi Tambahan:**  
-Jika ingin mengubah parameter threshold atau model, sesuaikan pada bagian berikut di `gambar.py`:  
+Jika ingin mengubah parameter threshold atau model, sesuaikan pada bagian berikut di `cerdas.py`:  
 ```python
 _, thresh = cv2.threshold(gray, 160, 255, cv2.THRESH_BINARY)
 ```
