@@ -49,7 +49,7 @@ Ini adalah implementasi **OCR (Optical Character Recognition)** yang cerdas untu
 1. Masukkan gambar Captcha yang ingin dipecahkan ke dalam folder `./gambar`.  
 2. Jalankan skrip:  
     ```bash
-    python gambar.py
+    python cerdas.py
     ```  
 3. **Hasil OCR** akan ditampilkan di terminal.
 
