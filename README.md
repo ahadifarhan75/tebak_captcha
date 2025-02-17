@@ -58,7 +58,7 @@ Ini adalah implementasi **OCR (Optical Character Recognition)** yang cerdas untu
 ## 📁 **Struktur Folder:**  
 ```
 tebak-captcha-cerdas/
-│   gambar.py        # Skrip utama untuk membaca dan menebak captcha
+│   cerdas.py        # Skrip utama untuk membaca dan menebak captcha
 │   README.md        # Dokumentasi proyek
 └───gambar/
         contoh_captcha1.png
